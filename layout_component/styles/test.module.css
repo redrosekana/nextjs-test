@@ -1,0 +1,8 @@
+.main{
+    transform: translate(0,66px);
+    border: 1px solid black;
+    height: 686px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
